@@ -10,7 +10,7 @@ Navigation Bar
     Book - shows your current Book and allows you to select another Book
     Contributions - if you have a 360 Members site this will allow you to bring in offerings
     Print - used to print checks
-    Settings - contains the General and Global Settings
+    Settings - contains the Book and General Settings
     Reports - used to print reports and the event log
     User settings - used to log out and change your password
     Help - help section
