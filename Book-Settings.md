@@ -14,6 +14,14 @@ Accounts - Assets, Liabilities, Income and Expense Accounts are entered here
       Liabilities - enter the category name
       Income - enter the category name
       Expense - enter the category name
+      
+    Accounts are placed by left clicking on the account and dragging it to the appropriate location
+    After all changes have been made click on Confirm to save the changes
+    
+  
+
+
+
 
 Budgets
 
