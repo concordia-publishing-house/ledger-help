@@ -6,25 +6,25 @@ New Account - used to create a new account
 
 ![Alt Text](images/newaccount.JPG "")
     
-  Assets - enter the Account Name, Account Number (optional), choose if the account can be used to      write checks and enter the Initial Balance
+  * Assets - enter the Account Name, Account Number (optional), choose if the account can be used to      write checks and enter the Initial Balance
 
-  Liabilities - enter the Account Name, Account Number (optional) and enter the Initial Balance 
+  * Liabilities - enter the Account Name, Account Number (optional) and enter the Initial Balance 
 
-  Income - enter the Account Name, Account Number (optional)
+  * Income - enter the Account Name, Account Number (optional)
 
-  Expense - enter the Account Name, Account Number (optional)
+  * Expense - enter the Account Name, Account Number (optional)
       
 New Category - used to create a new category
     
 ![Alt Text](images/newcategory.JPG "")
     
-  Assets - enter the category name
+  * Assets - enter the category name
 
-  Liabilities - enter the category name
+  * Liabilities - enter the category name
 
-  Income - enter the category name
+  * Income - enter the category name
 
-  Expense - enter the category name
+  * Expense - enter the category name
 
 Accounts are placed by left clicking on the account and dragging it to the appropriate location
 After all changes have been made click on Confirm to save the changes
