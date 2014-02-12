@@ -18,8 +18,9 @@ Accounts - Assets, Liabilities, Income and Expense Accounts are entered here
     Accounts are placed by left clicking on the account and dragging it to the appropriate location
     After all changes have been made click on Confirm to save the changes
     
-    Note: initial balances can not be changed once a transaction has been entered.  Confirming Balances just confirms
-    the balance that you entered.  Initial Balances are able to be changed until the first transaction has been entered.
+    Note: initial balances can not be changed once a transaction has been entered.  Confirming Balances just 
+    confirms the balance that you entered.  Initial Balances are able to be changed until the first transaction 
+    has been entered.
     
   
 
