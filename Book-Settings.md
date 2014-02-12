@@ -2,6 +2,8 @@ Accounts - Assets, Liabilities, Income and Expense Accounts are entered here
 
     New Account - used to create a new account
     
+    ![Alt Text](images/newaccount.JPG "")
+    
       Assets - enter the Account Name, Account Number (optional), choose if the account can be used to write checks
                and enter the Initial Balance 
       Liabilities - enter the Account Name, Account Number (optional) and enter the Initial Balance 
@@ -9,6 +11,8 @@ Accounts - Assets, Liabilities, Income and Expense Accounts are entered here
       Expense - enter the Account Name, Account Number (optional)
       
     New Category - used to create a new category
+    
+    ![Alt Text](images/newcategory.JPG "")
     
       Assets - enter the category name
       Liabilities - enter the category name
