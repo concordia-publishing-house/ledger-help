@@ -1,5 +1,3 @@
-Global Settings
-
 # General
 - shows basic information for your church
 
