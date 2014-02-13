@@ -4,9 +4,9 @@
 
 360 Ledger Reports is comprised of 4 separate reports and the Event Log
 * **General Ledger** - the General Ledger report allows you to get a report for Checks, Journal Entries and Deposits.  
-* **Income & Expense** - the Income & Expense report gives you a report of all income and expense accounts that you have.
-* **Chart of Accounts** - the Chart of Accounts Report gives you a report that shows starting and ending balances for all account types.
-* **Balance Sheet** - the Balance Sheet report gives you a report for Asset and Liability accounts only.
+* **Income & Expense** - The Income & Expense report gives us a break down of our Income versus Expense.   Accounts can be collasped into their respective categories as well.   Clicking on the carrots will expand/retract your acccounts.
+* **Chart of Accounts** - The Chart of Accounts Report gives you a report that will display beginning and ending balances with a few other options.  Accounts included are Assets, Liabiities, Income and Expense.  Accounts can be collasped into their respective categories as well.   Clicking on the carrots will expand/retract your acccounts.
+* **Balance Sheet** - The Balance Sheet Report gives you a report of you Assets and Liabilities.  Clicking on the carrots will expand/retract your acccounts.
 * **Event Log** - is used to keep track of what is happening in 360 Ledger.  Everytime you enter a transactions, edit a transcations, print checks or create/edit payess the Event Log will track these changes.
 
 
@@ -62,5 +62,18 @@
 * **Change %** - displays the difference between the starting and ending balance
 * **Assets less Liabilities** - display the difference between Assets and Liabilities
 * **Print** - using the print option prints out the report for you
+* **Export to Excel** - using the export option will send the report to excel
+* **Date Picker** - used to select the specific time frame for your report (Fiscal Year, Month or Quarter).
+
+### Event Log
+
+![Alt Text](images/eventlog.JPG "")
+
+* **Timestamp** - displays the time and date an event happened
+* **Action** -  shows what type of action happened (Created, Updated, Printer)
+* **Type** - shows the type of event that was recorded (Payee, Transaction, Tenant)
+* **User** - shows the user who was involved in the change
+* **Message** - gives a brief summary of what the event was.
+* **Print** - using the print option prints out the Event Log for you
 * **Export to Excel** - using the export option will send the report to excel
 * **Date Picker** - used to select the specific time frame for your report (Fiscal Year, Month or Quarter).
