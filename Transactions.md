@@ -1,5 +1,5 @@
 ### + New Transaction
-is used to add transactions into the system.  We have five transaction types
+is used to add transactions into the system.  We have five transaction types.
 
 ![Alt Text](images/newtransaction.JPG "")
 
