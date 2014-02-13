@@ -1,4 +1,4 @@
-# Accounts
+### Accounts
 - Assets, Liabilities, Income and Expense Accounts are entered here
 
 **New Account** - used to create a new account
@@ -26,7 +26,7 @@
 
 * **Note:** initial balances can not be changed once a transaction has been entered.  Confirming Balances just confirms the balance that you entered.  Initial Balances are able to be changed until the first transaction has been entered.
 
-# Budgets
+### Budgets
 - Used to enter budgets for your selected fiscal year.  We have three options to enter in the budget numbers.
 
 ![Alt Text](images/budgets.JPG "")
@@ -37,7 +37,7 @@
 * **Export to Excel** - takes the budget information and exports it out to excel
 * **Date Picker** - used to select which fiscal year you are entering your budget numbers for
 
-# Fiscal Years 
+### Fiscal Years 
 - Displays current fiscal year, allows you to set the starting month for the next fiscal year and shows any prior fiscal years that you might have
 
 ![Alt Text](images/fiscalyears.JPG "")
