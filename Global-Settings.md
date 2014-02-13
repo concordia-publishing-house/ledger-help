@@ -1,4 +1,4 @@
-# General
+### General
 - shows basic information for your church
 
 ![Alt Text](images/generalsettings.JPG "")
@@ -9,7 +9,7 @@
 * **Church Address** - enter your church address here
 * **Church Phone** - enter your church phone number here
 
-# Users
+### Users
 - shows current users for your site and allows you to add a new users
 
 ![Alt Text](images/usersettings.JPG "")
@@ -19,7 +19,7 @@
 
 ![Alt Text](images/addanewuser.JPG "")
 
-# Books
+### Books
 - shows your current books and allows you to create a new one
 
 ![Alt Text](images/books.JPG "")
@@ -29,7 +29,7 @@
 
 ![Alt Text](images/addanewbook.JPG "")
 
-# Payees
+### Payees
 - used to enter new payes and view current ones
 
 ![Alt Text](images/payees.JPG "")
@@ -41,7 +41,7 @@
 
 * **Payee History** - hovering your mouse over a Payee will show the History icon.  Clicking on that will open a new screen that will show your transcation information for that Payee.  You are able to adjust the date range using the date picker.  You also have the option to print this view or export the information out to excel.
 
-# Permissions
+### Permissions
 - allows you to set permission levels for users of your site
 
 ![Alt Text](images/permissions.JPG "")
