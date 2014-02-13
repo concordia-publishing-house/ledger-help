@@ -1,8 +1,8 @@
-# Home Screen
+### Home Screen
 
 ![Alt Text](images/homepage.JPG "")
 
-# Navigation Bar
+### Navigation Bar
 
 ![Alt Text](images/navigationbar.JPG "")
 
@@ -17,7 +17,7 @@
   * **Omni Bar** - allows you to search for a particular account
   * **New transaction** - used to enter our transactions (transfer, deposit, payment, check, journal entry)
 
-# Graphs
+### Graphs
 
 ![Alt Text](images/graphs.JPG "")
 
