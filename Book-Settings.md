@@ -29,7 +29,7 @@ Budgets - used to enter budgets for your selected fiscal year.
 
 ![Alt Text](images/budgets.JPG "")
 
-* What have three options to enter in the budget numbers.
+* We have three options to enter in the budget numbers.
 * Option 1 - Change all to option will allow you to set your budget numbers based on Last years budget or Last years actual.
 * Option 2 - Manually typing in the amount in each individual box
 * Option 3 - Clicking on a single account (income or expense) and using Previous Year Budget or Previous Year Actual.
