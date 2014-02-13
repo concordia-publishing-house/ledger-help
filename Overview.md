@@ -15,16 +15,44 @@
   * **User settings** - used to log out and change your password
   * **Help** - help section
   * **Omni Bar** - allows you to search for a particular account
+
+![Alt Text](images/omnibar.JPG "")
+
   * **New transaction** - used to enter our transactions (transfer, deposit, payment, check, journal entry)
+
+![Alt Text](images/newtrasaction.JPG "")
 
 ### Graphs
 
 ![Alt Text](images/graphs.JPG "")
 
   * **Date Picker** - allows you to change the date range to a particular date
+
+![Alt Text](images/datepicker.JPG "")
+
   * **Mini Graph** - gives a snap shot of our account types
+
+![Alt Text](minigraphs.JPG "")
+
   * **Running Balance Graph** - shows the difference between our Assets and Liabilities
+
+![Alt Text](images/runningbalancegraph.JPG "")
+
   * **Print** - will print the transactions
   * **Export** - exports the transactions to excel
   * **Ledger** - list of transactions based on the date picker range
+
+![Alt Text](images/printexportledger.JPG "")
+
   * **Feedback** - used to leave feedback for support
+
+![Alt Text](images/feedback.JPG "")
+
+
+
+
+
+
+
+
+
