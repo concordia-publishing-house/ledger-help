@@ -61,7 +61,7 @@ is used to add transactions into the system.  We have five transaction types.
 * **Save** - saves the check to the system to print at a later time
 
 ### Journal Entry
-* will mainly be used for correction purposes.  For instance you noticted that a payment was off a few dollars you would simply do a Journal entry to make changes to the affected accounts.
+* mainly used for correction purposes.  For instance you noticted that a payment was off a few dollars you would simply do a Journal entry to make changes to the affected accounts.
 
 
 
