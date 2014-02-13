@@ -43,6 +43,9 @@ Permissions - allows you to set permission levels for users of your site
 
 * Administrator - this permission level is permanent.  Changes can not be made to this permission group.
 * Add a new one will allow you to create a new permissions group.  Enter the name of the permission group and select the options for that group.
+
+![Alt Text](images/addpermissionsgroup.JPG "")
+
 * Permission options
   *   Can manage tenant - allows you to manage books
   *   Can manage chart of acounts - allows you manage the chart of accounts (add/edit/place accounts)
