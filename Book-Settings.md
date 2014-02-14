@@ -19,6 +19,12 @@
 * **Liabilities** - enter the category name
 * **Income** - enter the category name
 * **Expense** - enter the category name
+
+**Restricted Account** - Restricted Funds are a reserve of money that can only be used for specific purposes.  These accounts are tied to specific Asset Accounts.
+
+![Alt Text](images/restrictedaccount.JPG "")
+
+* **Assets** - enter the Restricted Account name
   
 **Moving Accounts/Categories**
 
@@ -32,13 +38,22 @@
 ![Alt Text](images/budgets.JPG "")
 
 * **Option 1** - Change all to option will allow you to set your budget numbers based on Last years budget or Last years actual.
+
+![Alt Text](images/changeallto.JPG "")
+
 * **Option 2** - Manually typing in the amount in each individual box
+
+![Alt Text](images/manualmode.JPG "")
+
 * **Option 3** - Clicking on a single account (income or expense) and using Previous Year Budget or Previous Year Actual.
+
+![Alt Text](images/previousbudgetactual.JPG "")
+
 * **Export to Excel** - takes the budget information and exports it out to excel
 * **Date Picker** - used to select which fiscal year you are entering your budget numbers for
 
 ### Fiscal Years 
-- Displays current fiscal year, allows you to set the starting month for the next fiscal year and shows any prior fiscal years that you might have
+- Displays current fiscal year, allows you to set the starting month for the next fiscal year and shows any prior fiscal years that you might have.
 
 ![Alt Text](images/fiscalyears.JPG "")
 
