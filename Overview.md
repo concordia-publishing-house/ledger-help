@@ -20,21 +20,21 @@
 
   * **New transaction** - used to enter our transactions (transfer, deposit, payment, check, journal entry)
 
-![Alt Text](images/newtrasaction.JPG "")
+![Alt Text](images/newtransaction.JPG "")
 
 ### Graphs
 
 ![Alt Text](images/graphs.JPG "")
 
-  * **Date Picker** - allows you to change the date range to a particular date
+  * **Date Picker** - allows you to change the date range to a particular date. Options include Fiscal Year, Quarters (Q1, Q2, Q3, Q4), Month Selection and manual selection.
 
 ![Alt Text](images/datepicker.JPG "")
 
-  * **Mini Graph** - gives a snap shot of our account types
+  * **Mini Graph** - displays a snap shot of your account types.  Clicking on anyone of these graphs will drill down into the individual accounts.  Changes made here will effect the running balance graph.
 
 ![Alt Text](minigraphs.JPG "")
 
-  * **Running Balance Graph** - shows the difference between our Assets and Liabilities
+  * **Running Balance Graph** - shows the difference between our Assets and Liabilities.  Hovering your mouse over a point on the graph will show information at the point in time.  If you are looking at Income or Expense accounts you see the budget line.  This will show you how well your account is doing verse your budget numbers.
 
 ![Alt Text](images/runningbalancegraph.JPG "")
 
