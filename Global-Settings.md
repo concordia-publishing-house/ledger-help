@@ -41,6 +41,8 @@
 
 * **Payee History** - hovering your mouse over a Payee will show the History icon.  Clicking on that will open a new screen that will show your transcation information for that Payee.  You are able to adjust the date range using the date picker.  You also have the option to print this view or export the information out to excel.
 
+![Alt Text](images/payeehistory.JPG "")
+
 ### Permissions
 - allows you to set permission levels for users of your site
 
