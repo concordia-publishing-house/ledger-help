@@ -1,6 +1,6 @@
 ### Access Check Printing
 
-* To access the print queue click on the printer icon in the admin toolbar.  The print icon will display the number of checks that you have to print
+* To access the print queue click on the printer icon in the admin toolbar.  The print icon will also display the number of checks that you have to print.
 
 ![Alt Text](images/printicon.JPG "")
 
@@ -18,6 +18,9 @@
 
 * From the print preview window verify that the checks look correct and then click on the Print button.
 * Enter the check number then click on Confirm
+
+![Alt Text](images/printchecks.JPG "")
+
 * Verify that everything looks correct then click on print.
 * Once you are finsihed printing the check click on Remove Selected to remove it from the list.
 
