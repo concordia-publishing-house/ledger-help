@@ -1,7 +1,7 @@
 ### + New Transaction
 is used to add transactions into the system.  We have five transaction types.
 
-![Alt Text](images/newtransaction.JPG "")
+![Alt Text](images/newtransaction+.JPG "")
 
 ### Transfer
 - used to tranfer money between similar account types (Asset to Asset, Liability to Liabiity, Income to Income and Expense to Expense)
@@ -63,7 +63,7 @@ is used to add transactions into the system.  We have five transaction types.
 ### Journal Entry
 * mainly used for correction purposes.  For instance you noticted that a payment was off a few dollars you would simply do a Journal entry to make changes to the affected accounts.
 
-
+![Alt Text](images/journalentry.JPG "")
 
 * **Memo** - optional
 * **Date** - opens a calendar to select the date, can manually type in the date as well
@@ -76,7 +76,10 @@ is used to add transactions into the system.  We have five transaction types.
 
 ![Alt Text](images/contributions360members.JPG "")
 
-* Contributions from 360 Members are able to be imported over to 360 Ledger.   Contributions will be date and event specific.
+* Contributions from 360 Members are able to be imported over to 360 Ledger.   Contributions will be date and event specific.  Clicking on a deposit in the list will open the Deposit Transaction window.
+
+![Alt Text](images/deposit360members.JPG "")
+
 * **Note:** When depositing contributions from 360 Members you will see which Fund the money was given to.  This will help you decide which Fund the money was given to.  This process is completely optional.  If you do not wish to add the deposits simply click the x to remove it from the list.
 
 ### Edit Transactions
