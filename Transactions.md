@@ -79,5 +79,10 @@ is used to add transactions into the system.  We have five transaction types.
 * Contributions from 360 Members are able to be imported over to 360 Ledger.   Contributions will be date and event specific.
 * **Note:** When depositing contributions from 360 Members you will see which Fund the money was given to.  This will help you decide which Fund the money was given to.  This process is completely optional.  If you do not wish to add the deposits simply click the x to remove it from the list.
 
+### Edit Transactions
+
+![Alt Text](images/edittransaction.JPG "")
+
+* **If you have made a mistake when adding a transaction we are able to go back and make a change to the transaction.  Transactions will can be edited in the Ledger view on the home page.  All you have to do is click on the transaction and make the necessary corrections when the transaction window opens.
 
 
