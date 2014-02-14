@@ -1,6 +1,8 @@
 ### Accounts
 - Assets, Liabilities, Income and Expense Accounts are entered here
 
+![Alt Text](images/accounts.JPG "")
+
 **New Account** - used to create a new account
 
 ![Alt Text](images/newaccount.JPG "")
