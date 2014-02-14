@@ -83,6 +83,6 @@ is used to add transactions into the system.  We have five transaction types.
 
 ![Alt Text](images/edittransaction.JPG "")
 
-* **If you have made a mistake when adding a transaction we are able to go back and make a change to the transaction.  Transactions will can be edited in the Ledger view on the home page.  All you have to do is click on the transaction and make the necessary corrections when the transaction window opens.
+* If you have made a mistake when adding a transaction we are able to go back and make a change to the transaction.  Transactions will can be edited in the Ledger view on the home page.  All you have to do is click on the transaction and make the necessary corrections when the transaction window opens.
 
 
